@@ -1,5 +1,4 @@
 # -Huffman-Based-Lossless-Compression-System
-# Huffman Encoder–Decoder CLI tool
 
 A **C++ command-line application** that implements **Huffman Encoding and Decoding** for **lossless text compression** using **priority queues, binary trees, and object-oriented programming**.
 
